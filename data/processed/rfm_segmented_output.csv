@@ -1,0 +1,51 @@
+CustomerID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Segment_Code,Customer_Segment
+1,5,10,2742.7200000000003,5,3,3,533,Loyal Customers
+2,63,13,3309.44,1,4,4,144,At Risk (Can't Lose Them)
+3,1,8,2531.1,5,1,3,513,Recent New Customers
+4,196,7,1862.66,1,1,2,112,Hibernating / Lost
+5,14,8,2009.95,4,1,2,412,Recent New Customers
+6,16,14,3640.11,4,5,5,455,Champions (Core High Value)
+7,19,12,3162.59,3,4,4,344,Loyal Customers
+8,12,9,1780.5,4,2,1,421,Recent New Customers
+9,4,9,1723.0,5,2,1,521,Recent New Customers
+10,146,4,1036.66,1,1,1,111,Hibernating / Lost
+11,16,9,2012.77,4,2,2,422,Recent New Customers
+12,41,9,2567.48,2,2,3,223,About to Sleep / Mid-Tier
+13,5,11,3116.3,5,4,4,544,Champions (Core High Value)
+14,3,10,1650.28,5,3,1,531,Loyal Customers
+15,4,13,3032.99,5,4,4,544,Champions (Core High Value)
+16,9,19,5086.4800000000005,4,5,5,455,Champions (Core High Value)
+17,22,11,2739.0099999999998,3,4,3,343,Loyal Customers
+18,56,6,1841.94,1,1,2,112,Hibernating / Lost
+19,10,11,2357.85,4,4,2,442,Champions (Core High Value)
+20,39,5,1048.78,2,1,1,211,About to Sleep / Mid-Tier
+21,17,9,2391.9300000000003,3,2,3,323,About to Sleep / Mid-Tier
+22,40,9,2650.96,2,2,3,223,About to Sleep / Mid-Tier
+23,25,13,3880.4700000000003,3,5,5,355,Loyal Customers
+24,59,10,2758.04,1,3,3,133,At Risk (Can't Lose Them)
+25,2,11,2734.77,5,4,3,543,Champions (Core High Value)
+26,32,9,2209.85,2,2,2,222,About to Sleep / Mid-Tier
+27,4,11,3455.8,5,4,5,545,Champions (Core High Value)
+28,48,8,2921.48,2,2,4,224,About to Sleep / Mid-Tier
+29,35,12,3256.2799999999997,2,4,4,244,At Risk (Can't Lose Them)
+30,99,2,713.94,1,1,1,111,Hibernating / Lost
+31,5,10,2954.03,5,3,4,534,Loyal Customers
+32,52,9,2260.6,2,3,2,232,At Risk (Can't Lose Them)
+33,217,4,1264.7,1,1,1,111,Hibernating / Lost
+34,58,14,3556.05,1,5,5,155,At Risk (Can't Lose Them)
+35,24,15,4925.23,3,5,5,355,Loyal Customers
+36,60,11,3375.31,1,4,5,145,At Risk (Can't Lose Them)
+37,35,6,1385.27,2,1,1,211,About to Sleep / Mid-Tier
+38,32,9,2080.62,2,3,2,232,At Risk (Can't Lose Them)
+39,2,6,2089.58,5,1,2,512,Recent New Customers
+40,6,14,2708.85,4,5,3,453,Champions (Core High Value)
+41,18,13,3491.89,3,5,5,355,Loyal Customers
+42,7,8,1755.22,4,2,1,421,Recent New Customers
+43,16,10,2905.23,4,3,4,434,Loyal Customers
+44,44,9,1511.09,2,3,1,231,At Risk (Can't Lose Them)
+45,167,10,2290.97,1,3,2,132,At Risk (Can't Lose Them)
+46,9,14,3343.59,4,5,5,455,Champions (Core High Value)
+47,2,10,3228.02,5,3,4,534,Loyal Customers
+48,20,15,3581.21,3,5,5,355,Loyal Customers
+49,8,8,2471.54,4,2,3,423,Recent New Customers
+50,30,13,3278.78,3,5,4,354,Loyal Customers
